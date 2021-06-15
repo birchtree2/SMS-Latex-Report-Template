@@ -9,7 +9,7 @@
 
 由于学校格式要求需要宋体加粗,本文中将`\bfseries`字体设置为宋体.
 
-编译命令为`xelatex.exe --shell-escape -synctex=1 -interaction=nonstopmode "report".tex` 推荐使用Texlive作为编辑器. 
+编译命令为`xelatex.exe --shell-escape -synctex=1 -interaction=nonstopmode "report".tex` 推荐使用Texstudio作为编辑器. 
 
 本模板满足的要求如下
 
